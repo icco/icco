@@ -1,5 +1,6 @@
-### Hi friend 👋
+Hello!
 
-I’m currently working on  tooling for the internet and promoting SRE.
+I am currently working on tooling for the internet and promoting SRE. I am also writing some books and hoarding some data.
 
-![icco's github stats](https://github-readme-stats.vercel.app/api?username=icco&show_icons=true&theme=nord)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
