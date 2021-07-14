@@ -6,10 +6,10 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs           █████████████▓░░░░░░░░░░░   54.26 % 
-YAML         1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Other        54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Terraform    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript   5 hrs 16 mins   ███████████████▒░░░░░░░░░   61.90 % 
+YAML         1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Other        54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Terraform    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
