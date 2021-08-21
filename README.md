@@ -6,10 +6,10 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Go           1 hr 21 mins    █████████▒░░░░░░░░░░░░░░░   37.85 % 
-INI          36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Docker       30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-YAML         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-TypeScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Go       1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   41.47 % 
+INI      36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Docker   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+YAML     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Bash     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 <!--END_SECTION:waka-->
