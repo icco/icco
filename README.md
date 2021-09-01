@@ -6,9 +6,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Go        2 hrs 22 mins   █████████████████████░░░░   83.51 % 
-Cheetah   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Ruby      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-ERB       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Go     1 hr 43 mins    ████████████████████████▒   97.97 % 
+Ruby   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 <!--END_SECTION:waka-->
