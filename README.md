@@ -6,7 +6,8 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   45 mins         █████████████████░░░░░░░░   67.79 % 
-Go           20 mins         ███████▓░░░░░░░░░░░░░░░░░   31.28 % 
+TypeScript   45 mins         ███████████████████▒░░░░░   77.37 % 
+JSON         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 <!--END_SECTION:waka-->
