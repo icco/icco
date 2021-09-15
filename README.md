@@ -6,9 +6,9 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 49 mins   █████████████████▓░░░░░░░   71.15 % 
-C#           1 hr 36 mins    ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Other        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript   5 hrs 49 mins   ████████████████████████░   95.71 % 
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
