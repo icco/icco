@@ -6,7 +6,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 26 October, 2021
+Week: 21 October, 2021 - 27 October, 2021
 
 TypeScript   ████████████████████████████░░░░░░░░░░░░░   68.31 % 
 Terraform    ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
