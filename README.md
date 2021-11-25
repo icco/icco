@@ -8,7 +8,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 ```text
 Week: 18 November, 2021 - 24 November, 2021
 
-TypeScript   ███████████████████████████████████████▓░   96.48 % 
-JSON         █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TypeScript   ███████████████████████████████████████▒░   95.70 % 
+JSON         █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 <!--END_SECTION:waka-->
