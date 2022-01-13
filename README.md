@@ -6,7 +6,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
 Go           █████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   32.24 % 
 Terraform    ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   26.47 % 
