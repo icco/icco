@@ -6,7 +6,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 TypeScript   ████████████████████████████████▒░░░░░░░░   79.03 % 
 MDX          ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
