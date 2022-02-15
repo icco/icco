@@ -8,6 +8,8 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 1 hr 15 mins
+
 TypeScript   █████████████████████████████░░░░░░░░░░░░   70.58 % 
 JavaScript   ████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   21.46 % 
 JSON         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
