@@ -6,7 +6,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
 Total: 2 hrs 28 mins
 
