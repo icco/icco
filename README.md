@@ -7,14 +7,13 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 23 February 2022 - To: 02 March 2022
 
-TypeScript                   █████████▒░░░░░░░░░░░░░░░   37.25 %
-Go                           ███████░░░░░░░░░░░░░░░░░░   28.25 %
-MDX                          █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-JSON                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-GraphQL                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript                   █████████████████▒░░░░░░░   69.57 %
+JSON                         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Go                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+MDX                          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+JavaScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
