@@ -7,9 +7,12 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
-TypeScript                   █████████████████████████   100.00 %
+TypeScript                   ████████████▓░░░░░░░░░░░░   50.83 %
+Go                           █████████▒░░░░░░░░░░░░░░░   37.86 %
+MDX                          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Bash                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
