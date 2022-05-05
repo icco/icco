@@ -7,10 +7,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
-
-TypeScript                   ███████████████████░░░░░░   75.63 %
-JavaScript                   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
