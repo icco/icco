@@ -7,7 +7,11 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 May 2022 - To: 08 May 2022
+
+HTML                                       █████████████████████▓░░░   86.75 %
+Nginx configuration file                   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Other                                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
