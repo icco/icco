@@ -7,7 +7,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
 TypeScript                                 ███████████████▓░░░░░░░░░   62.68 %
 MDX                                        █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
