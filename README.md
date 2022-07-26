@@ -7,14 +7,13 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 25 July 2022
+From: 19 July 2022 - To: 26 July 2022
 
-TypeScript                   ██████████████░░░░░░░░░░░   55.98 %
-YAML                         ████████▓░░░░░░░░░░░░░░░░   35.29 %
-Terraform                    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-HCL                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript                   ████████████▓░░░░░░░░░░░░   50.09 %
+YAML                         ██████████░░░░░░░░░░░░░░░   40.12 %
+Terraform                    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+HCL                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
