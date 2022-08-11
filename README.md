@@ -7,12 +7,12 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2022 - To: 10 August 2022
+From: 04 August 2022 - To: 11 August 2022
 
-Terraform                   ████████████████▒░░░░░░░░   65.63 %
-YAML                        ████████▒░░░░░░░░░░░░░░░░   33.21 %
-Markdown                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JSON                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Terraform                   ███████████████████▒░░░░░   77.20 %
+YAML                        █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Markdown                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
