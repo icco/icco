@@ -7,10 +7,7 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
-
-Terraform                   ████████████████████████▓   98.06 %
-JSON                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
