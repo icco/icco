@@ -7,16 +7,16 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 01 November 2022
+From: 03 October 2022 - To: 02 November 2022
 
-Total Time: 21 hrs 6 mins
+Total Time: 21 hrs 17 mins
 
-TypeScript                   █████████████▁▁▁▁▁▁▁▁▁▁▁▁   51.74 %
-YAML                         ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.99 %
-JSON                         ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.05 %
-Terraform                    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.97 %
-Bash                         ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.87 %
-Markdown                     ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.50 %
+TypeScript                   ████████████▇▁▁▁▁▁▁▁▁▁▁▁▁   51.32 %
+YAML                         ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.20 %
+JSON                         ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.97 %
+Terraform                    ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.31 %
+Bash                         ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.85 %
+Markdown                     ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.49 %
 ```
 
 <!--END_SECTION:waka-->
