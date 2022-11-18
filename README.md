@@ -7,15 +7,15 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 October 2022 - To: 17 November 2022
+From: 19 October 2022 - To: 18 November 2022
 
-Total Time: 12 hrs 29 mins
+Total Time: 12 hrs 33 mins
 
-TypeScript                   █████████████▓░░░░░░░░░░░   55.27 %
-YAML                         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Terraform                    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-JSON                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+TypeScript                   ███████████▒░░░░░░░░░░░░░   45.96 %
+YAML                         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Terraform                    ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+JSON                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 MDX                          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
