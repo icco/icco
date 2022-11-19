@@ -4,8 +4,9 @@ I am currently working on tooling for the internet and promoting SRE. I am also 
 
 Read more:
 
- - [natwelch.com](https://natwelch.com).
+ - [natwelch.com](https://natwelch.com)
  - [@icco@merveilles.town](https://merveilles.town/@icco)
+ - [blog](https://writing.natwelch.com)
 
 ### 🕒
 
