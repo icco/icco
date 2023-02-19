@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 18 February 2023
+From: 20 January 2023 - To: 19 February 2023
 
-Total Time: 45 hrs 54 mins
+Total Time: 45 hrs 41 mins
 
-Terraform                    ██████████████░░░░░░░░░░░   55.65 %
-TypeScript                   █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-YAML                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Terraform                    ██████████████░░░░░░░░░░░   55.46 %
+TypeScript                   █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+YAML                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
