@@ -13,16 +13,16 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 06 March 2023
+From: 05 February 2023 - To: 07 March 2023
 
-Total Time: 30 hrs 27 mins
+Total Time: 29 hrs 48 mins
 
-Terraform                    ███████████████░░░░░░░░░░   59.59 %
-TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+Terraform                    ██████████████▒░░░░░░░░░░   56.72 %
+TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
 JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-caddyfile                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+caddyfile                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
