@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2023 - To: 09 November 2023
+From: 11 October 2023 - To: 10 November 2023
 
-Total Time: 42 hrs 38 mins
+Total Time: 41 hrs 22 mins
 
-Other                             █████████████▓░░░░░░░░░░░   55.26 %
-Terraform                         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-TypeScript                        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Go                                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-YAML                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Other                             ██████████████░░░░░░░░░░░   55.85 %
+Terraform                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+TypeScript                        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Go                                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+YAML                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
