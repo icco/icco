@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 13 January 2024
+From: 15 December 2023 - To: 14 January 2024
 
-Total Time: 34 hrs 36 mins
+Total Time: 30 hrs 40 mins
 
-Other                        ████████████░░░░░░░░░░░░░   47.75 %
-Terraform                    █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-Go                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-YAML                         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-TypeScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Other                        ████████████▓░░░░░░░░░░░░   50.78 %
+Terraform                    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+YAML                         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Go                           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+TypeScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
