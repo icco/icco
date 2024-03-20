@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 19 March 2024
+From: 19 February 2024 - To: 20 March 2024
 
-Total Time: 29 hrs 5 mins
+Total Time: 29 hrs 3 mins
 
-Other                        ████████████████░░░░░░░░░   64.64 %
-Terraform                    ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-TypeScript                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Other                        ███████████████▓░░░░░░░░░   62.87 %
+Terraform                    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+TypeScript                   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
