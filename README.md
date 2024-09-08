@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 07 September 2024
+From: 09 August 2024 - To: 08 September 2024
 
-Total Time: 40 hrs 39 mins
+Total Time: 39 hrs 40 mins
 
-Other                        ███████████▓░░░░░░░░░░░░░   46.26 %
-Terraform                    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-TypeScript                   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Go                           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-YAML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Other                        ███████████▒░░░░░░░░░░░░░   45.72 %
+Terraform                    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TypeScript                   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Go                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+YAML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
