@@ -13,15 +13,15 @@ Read more:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 10 December 2024
+From: 11 November 2024 - To: 11 December 2024
 
-Total Time: 52 hrs 52 mins
+Total Time: 54 hrs 38 mins
 
-Other                                      ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
-Go                                         █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-Terraform                                  ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-YAML                                       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-TypeScript                                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Other                                      ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+Go                                         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Terraform                                  ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+TypeScript                                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+YAML                                       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
 ```
 
 <!--END_SECTION:waka-->
