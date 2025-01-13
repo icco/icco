@@ -18,4 +18,5 @@ jobs:
           SHOW_TIME: false
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          TIME_RANGE: "last_30_days"
+          TIME_RANGE: "last_year"
+          LANG_COUNT: 10
