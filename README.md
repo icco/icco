@@ -10,6 +10,8 @@ Read more:
 
 ### 🕒
 
+The following stats are generated from my [WakaTime](https://wakatime.com/@icco) account.
+
 <!--START_SECTION:waka-->
 
 ```txt
