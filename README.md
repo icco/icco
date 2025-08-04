@@ -15,7 +15,7 @@ The following stats are generated from my [WakaTime](https://wakatime.com/@icco)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 03 August 2025
+From: 04 August 2024 - To: 04 August 2025
 
 Total Time: 488 hrs 33 mins
 
