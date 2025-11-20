@@ -15,18 +15,18 @@ The following stats are generated from my [WakaTime](https://wakatime.com/@icco)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 19 November 2025
+From: 20 November 2024 - To: 20 November 2025
 
-Total Time: 437 hrs 44 mins
+Total Time: 436 hrs 30 mins
 
 Terraform                                  ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-Go                                         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-TypeScript                                 ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-YAML                                       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-JSON                                       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Markdown                                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Go                                         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+TypeScript                                 ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+YAML                                       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+JSON                                       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown                                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 Bash                                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-JavaScript                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JavaScript                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Typst                                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
