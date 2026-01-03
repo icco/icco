@@ -17,12 +17,12 @@ The following stats are generated from my [WakaTime](https://wakatime.com/@icco)
 ```txt
 From: 03 January 2025 - To: 03 January 2026
 
-Total Time: 392 hrs 37 mins
+Total Time: 392 hrs 48 mins
 
-Terraform                     ████████░░░░░░░░░░░░░░░░░   32.12 %
-Go                            ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-TypeScript                    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-YAML                          ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Terraform                     ████████░░░░░░░░░░░░░░░░░   32.11 %
+Go                            ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+TypeScript                    ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+YAML                          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
 JSON                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 Markdown                      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 Bash                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
