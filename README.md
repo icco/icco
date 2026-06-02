@@ -15,7 +15,7 @@ The following stats are generated from my [WakaTime](https://wakatime.com/@icco)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 01 June 2026
+From: 02 June 2025 - To: 02 June 2026
 
 Total Time: 358 hrs 48 mins
 
